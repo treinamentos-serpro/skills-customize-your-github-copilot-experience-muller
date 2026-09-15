@@ -6,7 +6,7 @@
 
 ## 📝 Tarefas
 
-### 🛠️	[Título da Tarefa 1]
+### 🛠️ [Título da Tarefa 1]
 
 #### Descrição
 [Descrição do que precisa ser feito pelo aluno nesta tarefa]
